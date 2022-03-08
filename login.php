@@ -1,11 +1,15 @@
 <?php
+//$db_connection = mysqli_connect("localhost","root","","login_registration");
+//// Check connection
+//if (mysqli_connect_errno()){
+//    echo "Failed to connect to MySQL: " . mysqli_connect_error();
+//}
+?>
+<?php
 $db_connection = mysqli_connect("localhost","root","","login_registration");
 // Check connection
 if (mysqli_connect_errno()){
-    echo "Failed to connect to MySQL: " . mysqli_connect_error();
-}
-?>
-<?php
+    echo "Failed to connect to MySQL: " . mysqli_connect_error();}
 if(isset($_POST['user_email']) && isset($_POST['user_password'])){
 
 // CHECK IF FIELDS ARE NOT EMPTY
@@ -24,7 +28,7 @@ $user_db_pass = $row['user_password'];
 // VERIFY PASSWORD
 $check_password = password_verify($_POST['user_password'], $user_db_pass);
 
-if($check_password === TRUE){
+if($check_password === FALSE){
 
 session_regenerate_id(true);
 

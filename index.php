@@ -4,7 +4,7 @@ require 'db_connection.php';
 require 'login.php';
 // IF USER LOGGED IN
 if(isset($_SESSION['user_email'])){
-header('Location: home.php');
+header('Location: homepage.php');
 exit;
 }
 ?>
@@ -20,7 +20,7 @@ exit;
 
 <body>
 
-<form action="" method="post">
+<form action="index.php" method="post">
 <h2>User Login</h2>
 
 <div class="container">

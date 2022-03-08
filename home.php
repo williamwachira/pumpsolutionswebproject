@@ -12,7 +12,7 @@ if (mysqli_connect_errno()) {
 if(isset($_SESSION['user_email']) && !empty($_SESSION['user_email'])){
 
 $user_email = $_SESSION['user_email'];
-$get_user_data = mysqli_query($db_connection, "SELECT * FROM `users` WHERE user_email = '$user_email'");
+$get_user_data = mysqli_query($db_connection, "SELECT * FROM `login_registration.users` WHERE user_email = '$user_email'");
 $userData =  mysqli_fetch_assoc($get_user_data);
 
 }else{
