@@ -63,7 +63,7 @@
                             <i class="ti-mobile"></i>
                         </div>
                         <div class="info-block">
-                            <h5 class="font-weight-500">+254788598965</h5>
+                            <h5 class="font-weight-500">+254703938407</h5>
                             <p>Call Free</p>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                             <i class="ti-email"></i>
                         </div>
                         <div class="info-block">
-                            <h5 class="font-weight-500">pumpsolutions@gmail.com</h5>
+                            <h5 class="font-weight-500">welym2015@gmail.com</h5>
                             <p>Email Us</p>
                         </div>
                     </div>

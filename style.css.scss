@@ -1,44 +1,10 @@
-@import 'variables.scss';
+body {
+  padding: 5px;
+  margin: 0;
+  background-color: #FFF;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
-@import 'mixins.scss';
-
-@import 'media-query.scss';
-
-@import 'typography.scss';
-
-@import 'main.scss';
-@import 'common.scss';
-
-@import 'templates/header.scss';
-
-@import 'templates/page-banner.scss';
-
-@import 'templates/navigation.scss';
-
-@import 'templates/slider.scss';
-
-@import 'templates/backgrounds.scss';
-
-@import 'templates/about.scss';
-
-@import 'templates/service.scss';
-
-@import 'templates/portfolio.scss';
-
-@import 'templates/process.scss';
-
-@import 'templates/pricing.scss';
-
-@import 'templates/blog.scss';
-
-@import 'templates/testimonial.scss';
-
-@import 'templates/contact.scss';
-
-@import 'templates/footer.scss';
-
-@import 'responsive.scss';
-
+}
 * {
   box-sizing: border-box;
   font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
@@ -384,4 +350,75 @@ footer {
   width: 100%;
 }
 
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
 
+form {
+  border: 3px solid #f1f1f1;
+  max-width: 600px;
+  margin: 0 auto;
+
+}
+
+input[type=text],
+input[type=email],
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.Regbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #0077c8;
+}
+
+
+.error_message {
+  color: red;
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.success_message {
+  color: green;
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+  padding: 16px;
+}
+
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .Regbtn {
+    width: 100%;
+  }
+}

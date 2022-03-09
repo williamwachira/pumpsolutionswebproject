@@ -78,7 +78,7 @@
                         <i class="ti-mobile"></i>
                     </div>
                     <div class="info-block">
-                        <h5 class="font-weight-500">+254788598965</h5>
+                        <h5 class="font-weight-500">+254703938407</h5>
                         <p>Call Free</p>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                         <i class="ti-email"></i>
                     </div>
                     <div class="info-block">
-                        <h5 class="font-weight-500">pumpsolutions@gmail.com</h5>
+                        <h5 class="font-weight-500">welym2015@gmail.com</h5>
                         <p>Email Us</p>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                     </li>
 
                     <li class="nav-item ">
-                        <a href="index.php" class="nav-link">
+                        <a href="index_login.php" class="nav-link">
                             Login
                         </a>
                     </li>
@@ -201,7 +201,7 @@
                 </ul>
 
                 <ul class="ml-lg-auto list-unstyled m-0">
-                    <li><a href="http://localhost/webProject/farm.php" class="btn btn-white btn-circled">make a request</a></li>
+                    <li><a href="http://localhost/webProject/index.php?page=products" class="btn btn-white btn-circled">make a request</a></li>
                 </ul>
             </div> <!-- / .navbar-collapse -->
         </nav>
@@ -218,7 +218,7 @@
                     <h5 class="card-title">pump shaft</h5>
                      <p class="card-text"><del style="color:red;">$80</del>
                          <br>$50</p>
-                     <a href="#" class="btn btn-primary">Add to cart</a>
+                     <a href="http://localhost/webProject/index.php?page=product&id=9" class="btn btn-primary">Go to cart</a>
                  </div>
         </div>
     </div>
@@ -230,7 +230,7 @@
                     <h5 class="card-title">Centrifugal bearing</h5>
                     <p class="card-text"><del style="color:red;">$63</del>
                         <br>$55</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=5" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -242,7 +242,7 @@
                     <h5 class="card-title">Impeller</h5>
                     <p class="card-text"><del style="color:red;">$73</del>
                         <br>$66</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=7" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -255,7 +255,7 @@
                     <h5 class="card-title">Impeller diffuser</h5>
                     <p class="card-text"><del style="color:red;">$91</del>
                         <br>$86</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=8" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -267,7 +267,7 @@
                     <h5 class="card-title">Shaft sleeve</h5>
                     <p class="card-text"><del style="color:red;">$102</del>
                         <br>$95</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=10" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -279,7 +279,7 @@
                     <h5 class="card-title">pump shaft</h5>
                     <p class="card-text"><del style="color:red;">$100</del>
                         <br>$94</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=11" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -291,7 +291,7 @@
                     <h5 class="card-title">Shaft sleeve</h5>
                     <p class="card-text"><del style="color:red;">$56</del>
                         <br>$48</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=13" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -303,7 +303,7 @@
                     <h5 class="card-title">Spherical bearing</h5>
                     <p class="card-text"><del style="color:red;">$70</del>
                         <br>$66</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=15" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -315,7 +315,7 @@
                     <h5 class="card-title">Varisco impeller</h5>
                     <p class="card-text"><del style="color:red;">$96</del>
                         <br>$85</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=17" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -327,7 +327,7 @@
                     <h5 class="card-title">Advanced bearing</h5>
                     <p class="card-text"><del style="color:red;">$69</del>
                         <br>$55</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=1" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -338,7 +338,7 @@
                     <h5 class="card-title">Volute housing</h5>
                     <p class="card-text"><del style="color:red;">$75</del>
                         <br>$70</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=19" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>
@@ -349,7 +349,7 @@
                     <h5 class="card-title">Volute</h5>
                     <p class="card-text"><del style="color:red;">$60</del>
                         <br>$40</p>
-                    <a href="#" class="btn btn-primary">Add to cart</a>
+                    <a href="http://localhost/webProject/index.php?page=product&id=18" class="btn btn-primary">Go to cart</a>
                 </div>
             </div>
         </div>

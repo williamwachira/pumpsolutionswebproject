@@ -63,7 +63,7 @@
                             <i class="ti-mobile"></i>
                         </div>
                         <div class="info-block">
-                            <h5 class="font-weight-500">+254788598965</h5>
+                            <h5 class="font-weight-500">+254703938407</h5>
                             <p>Call Free</p>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                             <i class="ti-email"></i>
                         </div>
                         <div class="info-block">
-                            <h5 class="font-weight-500">pumpsolutions@gmail.com</h5>
+                            <h5 class="font-weight-500">welym2015@gmail.com</h5>
                             <p>Email Us</p>
                         </div>
                     </div>
@@ -281,7 +281,7 @@ else{
                     <div class="card-body">
                         <h5 class="card-title">Diesel pump</h5>
                         <p class="card-text">cost: $300</p>
-                        <a href="#" class="btn btn-primary">Add to cart</a>
+                        <a href="http://localhost/webProject/index.php?page=product&id=3" class="btn btn-primary">Go to cart</a>
                     </div>
                 </div>
             </div>
@@ -291,7 +291,7 @@ else{
                     <div class="card-body">
                         <h5 class="card-title">Shallow well pressure pump</h5>
                         <p class="card-text">cost: $400</p>
-                        <a href="#" class="btn btn-primary">Add to cart</a>
+                        <a href="http://localhost/webProject/index.php?page=product&id=14" class="btn btn-primary">Go to cart</a>
                     </div>
                 </div>
             </div>
@@ -301,7 +301,7 @@ else{
                     <div class="card-body">
                         <h5 class="card-title">Centrifugal pump</h5>
                         <p class="card-text">cost: $500</p>
-                        <a href="#" class="btn btn-primary">Add to cart</a>
+                        <a href="http://localhost/webProject/index.php?page=product&id=2" class="btn btn-primary">Go to cart</a>
                     </div>
                 </div>
             </div>
@@ -311,7 +311,7 @@ else{
                     <div class="card-body">
                         <h5 class="card-title">Submerssible pump</h5>
                         <p class="card-text">cost: $350</p>
-                        <a href="#" class="btn btn-primary">Add to cart</a>
+                        <a href="http://localhost/webProject/index.php?page=products&p=16" class="btn btn-primary">Go to cart</a>
                     </div>
                 </div>
             </div>
@@ -321,7 +321,7 @@ else{
                     <div class="card-body">
                         <h5 class="card-title">Reciprocating pump</h5>
                         <p class="card-text">cost: $450</p>
-                        <a href="#" class="btn btn-primary">Add to cart</a>
+                        <a href="http://localhost/webProject/index.php?page=product&id=12" class="btn btn-primary">Go to cart</a>
                     </div>
                 </div>
             </div>
@@ -331,7 +331,7 @@ else{
                     <div class="card-body">
                         <h5 class="card-title">Gasoline water pump</h5>
                         <p class="card-text">cost: $320</p>
-                        <a href="#" class="btn btn-primary">Add to cart</a>
+                        <a href="http://localhost/webProject/index.php?page=product&id=4" class="btn btn-primary">Go to cart</a>
                     </div>
                 </div>
             </div>
@@ -339,6 +339,7 @@ else{
         </div>
     </div>
 </section>
+
 
 <!--<section id="about" class="section">-->
 <!--        <div class="container">-->

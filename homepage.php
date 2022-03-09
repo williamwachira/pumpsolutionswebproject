@@ -79,7 +79,7 @@
                             <i class="ti-mobile"></i>
                         </div>
                         <div class="info-block" id="contact">
-                            <h5 class="font-weight-500">+254788598965</h5>
+                            <h5 class="font-weight-500">+254703938407</h5>
                             <p>Call Free</p>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                             <i class="ti-email"></i>
                         </div>
                         <div class="info-block">
-                            <h5 class="font-weight-500">pumpsolutions@gmail.com</h5>
+                            <h5 class="font-weight-500">welym2015@gmail.com</h5>
                             <p>Email Us</p>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
                         </li>
 
                         <li class="nav-item ">
-                            <a href="index.php" class="nav-link">
+                            <a href="index_login.php" class="nav-link">
                                 Login
                             </a>
                         </li>
@@ -202,7 +202,7 @@
                     </ul>
 
                     <ul class="ml-lg-auto list-unstyled m-0">
-                        <li><a href="http://localhost/webProject/farm.php" class="btn btn-white btn-circled">make a request</a></li>
+                        <li><a href="http://localhost/webProject/index.php?page=products" class="btn btn-white btn-circled">make a request</a></li>
                     </ul>
                 </div> <!-- / .navbar-collapse -->
             </nav>
